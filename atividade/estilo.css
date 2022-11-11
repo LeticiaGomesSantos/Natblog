@@ -1,0 +1,66 @@
+body{ background-color:#5d5553;
+}
+
+p{
+	font-family: Verdana;
+	font-size: 13px;
+	text-align: justify;
+}
+
+#menu{
+	background-color: #84461F;
+	height: 30px;
+	width: 960px;
+	padding: 10px 0px;
+	text-align: center;
+	word-spacing: 15px;
+}
+
+.cabecalho{
+	height: 200px;
+	margin: 5px 0px;
+	clear: both;
+} 
+.cabecalho img{
+	width: 960px;
+	height: 200px;
+}
+#conteudo{
+	width: 960px;
+}
+
+#principal{
+	background-color:#E0D3DC ;
+	height: auto;
+	width: 65%;
+	float: left;
+	margin: 5px; 
+	padding: 5px;
+}
+.lateral{
+	background-color: #9C6A49;
+	width: 30%;
+	border-radius: 5px;
+	font-size: 10px;
+	float: right;
+	padding: 3px 3px 100px 3px;
+	height: auto;
+	margin: 5px 5px 5px 5px;
+}
+#rodape{
+	width: 960px;
+	height: 80px;
+	clear: both;
+	text-align: center;
+	background-color: #84461F;
+	color:#E0D3DC;
+}
+
+#pagina{
+	margin: 15px auto;
+	border: 2PX solid #5d5553;
+	width: 80%;
+}
+a:link { color: #E0D3DC;
+
+}
